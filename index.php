@@ -150,7 +150,7 @@
                     <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/stock/cheeseburger-hellscape.jpg" alt="">
+                    <img class="img-responsive" src="img/stock/psychic-torment.jpg" alt="">
                 </div>
             </div>
 
@@ -212,6 +212,21 @@
                         </li>
                     </ul>
                     <p class="copyright text-muted small">Copyright &copy; Rainer Karcher 2014. All Rights Reserved</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
+l">Copyright &copy; Rainer Karcher 2014. All Rights Reserved</p>
                 </div>
             </div>
         </div>
